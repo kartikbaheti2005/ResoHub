@@ -1,0 +1,6 @@
+{
+  "name": "ResoHub",
+  "description": "Smart College Resource Availability & Booking Platform featuring timetable integration, manager approvals, real-time slot checking, and conflict prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
